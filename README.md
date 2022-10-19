@@ -1,4 +1,4 @@
-# Welcome to my front end
+# Welcome to my store!
 # Header and footer
 Online Shopping store has a header and footer that's been implemented with custom css buttons
 
