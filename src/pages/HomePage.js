@@ -35,11 +35,9 @@ useEffect(()=>{
     <div className="grid" id="main-container">  
             <Header/>
             <main>
-                <ProductList/>
                 <BestProductsList/> 
-                
-                
                 <Hero/>
+                <ProductList/>
                 <Divider />
             </main>
             <Footer/>
