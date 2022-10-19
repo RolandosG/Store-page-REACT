@@ -5,13 +5,13 @@ Online Shopping store has a header and footer that's been implemented with custo
 # Home page
 the home page has the featured products, as well as the best selling products and a slider/carousal for a different type of view.
 
-# our products page
+# Our products page
 the products page has all the products that store provides.
 
-# about us
+# About us
 just text wall that could describe what the site is about.
 
-# signup
+# Signup
 registration page that stores the customer information into the database
 
 # How to run
